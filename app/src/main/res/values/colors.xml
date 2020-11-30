@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bgColor_List">#CD9B9B</color>
+    <color name="bgColor">#FFF5EE</color>
+    <color name="bgColor_btn_add">#F4A460</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="btnColor">#F4A460</color>
+    <color name="item_Color">#FFFAFA</color>
+</resources>
